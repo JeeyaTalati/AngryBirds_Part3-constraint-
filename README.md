@@ -1,2 +1,2 @@
-# AngryBirds_Part3-constraint-
-We can create constraint bodies.
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
